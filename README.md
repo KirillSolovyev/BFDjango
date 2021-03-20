@@ -4,7 +4,7 @@
 
 - [Lab3](https://github.com/KirillSolovyev/BFDjango/tree/master/lab3/todo)
 - [Lab4](https://github.com/KirillSolovyev/BFDjango/tree/master/lab4/django-todo-list)
-
+- [Lab5](https://github.com/KirillSolovyev/BFDjango/tree/master/lab5)
 ****
 
 # IMPORTANT
